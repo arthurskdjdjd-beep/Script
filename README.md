@@ -1,2 +1,1 @@
-# Script
-Para brookhaven 
+Carregar uma biblioteca de IU local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))() -- Criar uma janela principal local Window = redzlib:MakeWindow({ Title = "ant kids hub : nome do script", SubTitle = "ant kids", SaveFolder = "testando | redz lib v5.lua" }) -- Ícone de minimizar com imagem ajustada Window:AddMinimizeButton({ Button = { Image = "92405623242913, BackgroundTransparency = 0 }, Corner = { CornerRadius = UDim.new(35, 1) }
